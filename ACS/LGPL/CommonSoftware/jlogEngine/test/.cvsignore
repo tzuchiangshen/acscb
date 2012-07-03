@@ -1,0 +1,7 @@
+.purify
+tatlogs
+.acsStartJava*.log
+LogExample-complete*.xml
+tmp
+.purifydir
+sed.scan

@@ -1,0 +1,5 @@
+bin
+doc
+*.log
+*.log.lck
+rtai

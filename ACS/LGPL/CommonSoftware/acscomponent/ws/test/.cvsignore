@@ -1,0 +1,8 @@
+.idl-compilation-end
+.idl-compilation-start
+TestList.lite
+ref
+sed.scan
+tatlogs
+tmp
+.purifydir

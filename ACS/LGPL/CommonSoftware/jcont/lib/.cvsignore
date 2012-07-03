@@ -1,0 +1,9 @@
+python
+jcont.jar
+jcontTest.jar
+jconttest_if.jar
+*.a
+*.so
+ACScomponents
+JavaContainerError.jar
+*.tmp

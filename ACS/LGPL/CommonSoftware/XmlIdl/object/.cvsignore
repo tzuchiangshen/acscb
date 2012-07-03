@@ -1,0 +1,9 @@
+*.d*
+*.fake
+alma
+xmlidl
+*.inl
+*.h
+*.cpp
+*.py
+xmlidlTest

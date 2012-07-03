@@ -1,0 +1,11 @@
+SOURCE acsAlarmTATEnv
+0 unitTest "unitTestDriver"
+1 TestAcsAlarmSending "TestAcsAlarmSending 100" 
+2 FactoryTestCase "testFactory.sh"
+3 unitTest2 "unitTestDriver2"
+4 propertyTest "propertyTest"
+5 faultSateTest "faultSateTest"
+6 alarmThrowTest "alarmThrowTest"
+7 alarmsMapTest "alarmsMapTest"
+8 alarmSourceTest "alarmSourceTest"
+9 moreAlarmSourcesTest "moreAlarmSourcesTest"

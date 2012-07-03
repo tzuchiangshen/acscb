@@ -1,0 +1,13 @@
+tatlogs
+.purify
+*.swp
+*.scan
+tmp/*
+*.out
+all_logs.xml
+.purifydir
+tmp
+report.html
+cdbCheck.sed
+.TestList.sed
+.testSession

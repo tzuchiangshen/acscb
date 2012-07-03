@@ -1,0 +1,7 @@
+enumpropStd.jar
+enumpropALMASW2003048.jar
+enumpropMACRO.jar
+enumpropMACRO_included.jar
+enumpropTestDevice.jar
+*.a
+*.so

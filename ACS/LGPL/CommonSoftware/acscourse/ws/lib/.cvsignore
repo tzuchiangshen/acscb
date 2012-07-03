@@ -1,0 +1,8 @@
+python
+acscourseImpl.jar
+acscourseMount.jar
+ACSErrTypeACSCourse.jar
+acscourseEntities.jar
+*.a
+*.so
+ACScomponents

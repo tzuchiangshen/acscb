@@ -1,0 +1,5 @@
+tatlogs
+tmp
+.purifydir
+sed.scan
+*.gclog

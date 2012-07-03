@@ -1,0 +1,15 @@
+python
+ACScomponents
+ACSErrTICS.jar
+ACSErrTicsTCorr.jar
+ACSErrTypeAlarm.jar
+ACSErrTypeCommon.jar
+ACSErrTypeCORBA.jar
+ACSErrTypeCppNative.jar
+ACSErrTypeDevIO.jar
+ACSErrTypeJavaNative.jar
+ACSErrTypeMonitor.jar
+ACSErrTypeOK.jar
+ACSErrTypePythonNative.jar
+*.a
+*.so

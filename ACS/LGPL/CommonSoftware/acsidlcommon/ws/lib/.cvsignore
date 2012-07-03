@@ -1,0 +1,6 @@
+ACScomponents
+python
+acscommon.jar
+commontypes.jar
+*.a
+*.so

@@ -1,0 +1,6 @@
+HelloWorld.jar
+componentGetterImpl.jar
+refTest.jar
+componentGetter.jar
+*.a
+*.so

@@ -1,0 +1,8 @@
+mastercomp_if.jar
+mastercomp.jar
+mastercompTest_if.jar
+mastercompTest.jar
+python
+*.a
+*.so
+ACScomponents

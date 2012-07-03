@@ -1,0 +1,7 @@
+.idl-compilation-end
+.idl-compilation-start
+.purify
+.purifydir
+tmp
+tatlogs
+sed.scan

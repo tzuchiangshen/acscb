@@ -1,0 +1,14 @@
+#*******************************************************************************
+# E.S.O. - VLT project
+#
+# "@(#) $Id: TestList.lite,v 1.2 2009/11/04 20:44:29 agrimstrup Exp $"
+#
+# TestList
+#
+# who       when      what
+# --------  --------  ----------------------------------------------
+# agrimstrup 2008-12-11 created
+
+SOURCE acsContainerServicesTATEnvironment
+1 StorageTest "acsComponentStorageTest"
+2 SmartPtrTest "acsComponentSmartPtrTest"

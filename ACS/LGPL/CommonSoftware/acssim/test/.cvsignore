@@ -1,0 +1,9 @@
+*.purify
+.TestList.sed
+.idl-compilation-end
+.idl-compilation-start
+.testSession
+sed.scan
+tatlogs
+tmp
+.purifydir

@@ -1,0 +1,12 @@
+TestList.lite
+cdb.log
+ref
+tatlogs
+test.log
+tmp
+.TestList.sed
+.testSession
+cdbTATEpilogue.log
+cdbTATPrologue.log
+.purify
+.purifydir

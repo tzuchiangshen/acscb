@@ -1,0 +1,5 @@
+ACScomponents
+*.a
+*.so
+maciErrTypeComponent.jar
+maciTest.jar

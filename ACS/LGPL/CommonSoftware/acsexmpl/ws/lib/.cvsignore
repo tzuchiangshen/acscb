@@ -1,0 +1,17 @@
+acsexmplFilterWheel.jar
+acsexmplLampWheel.jar
+acsexmplErrorComponent.jar
+acsexmplHelloWorld.jar
+acsexmplPowerSupplyAbeans.jar
+acsexmplAmsSeq.jar
+acsexmplCalendar.jar
+acsexmplRampedPowerSupply.jar
+acsexmplPowerSupply.jar
+acsexmplLamp.jar
+acsexmplBuilding.jar
+acsexmplFridge.jar
+acsexmplMount.jar
+ACScomponents
+python
+*.a
+*.so

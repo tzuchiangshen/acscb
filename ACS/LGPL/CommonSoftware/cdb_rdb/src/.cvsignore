@@ -1,0 +1,6 @@
+.purifydir
+gen
+.done_*
+tmcdb
+CreateHsqldbTables.sql
+*.gclog

@@ -1,0 +1,9 @@
+DEBUG \[acsStartJava\]
+^. - [jJ]ava
+Starting Java application:
+FINE
+FINEST
+Time:
+export
+getAdvancedContainerServices
+ACS.log.minlevel.namedloggers not defined

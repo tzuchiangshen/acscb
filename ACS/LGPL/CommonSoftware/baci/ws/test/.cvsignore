@@ -1,0 +1,10 @@
+.idl-compilation-end
+.idl-compilation-start
+TestList.lite
+cdb.log
+ref
+sed.scan
+tatlogs
+test.log
+tmp
+.purifydir

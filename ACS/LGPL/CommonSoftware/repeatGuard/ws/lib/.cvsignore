@@ -1,0 +1,7 @@
+ACScomponents
+repeatGuard.jar
+*.a
+*.so
+repeatGuardJavaTest.jar
+repeatGuardLogTypeExampleLTS.jar
+python

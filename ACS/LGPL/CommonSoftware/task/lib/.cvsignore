@@ -1,0 +1,6 @@
+taskComponent.jar
+taskErrType.jar
+characteristicTask.jar
+*.a
+*.so
+ACScomponents

@@ -1,0 +1,6 @@
+ACScomponents
+python
+contNcTest_IF.jar
+contNcTestTat.jar
+*.a
+*.so

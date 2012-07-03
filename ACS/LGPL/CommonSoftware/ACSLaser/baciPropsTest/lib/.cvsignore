@@ -1,0 +1,6 @@
+python
+ACScomponents
+baciAlTest.jar
+testComponent.jar
+*.a
+*.so

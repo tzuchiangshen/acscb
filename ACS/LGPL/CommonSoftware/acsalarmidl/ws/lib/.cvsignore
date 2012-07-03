@@ -1,0 +1,6 @@
+python
+ACScomponents
+*.a
+*.so
+acsalarmSchemaBindings.jar
+acsErrTypeAlarmSourceFactory.jar

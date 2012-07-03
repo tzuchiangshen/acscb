@@ -1,0 +1,5 @@
+ACScomponents
+*.a
+*.so
+acstestcompcppTestCDBComp.jar
+acstestcomp.jar

@@ -1,0 +1,13 @@
+Running the following command:
+Starting Java application
+^[jJ]ava
+Using endorsed jar files in: -Djava.endorsed.dirs=
+ACS Manager: corbaloc::
+ACS Name Service: corbaloc::
+ACS Interface Repository: corbaloc::
+Logging to ACS log server.
+RTContext:
+SourceInfo:
+local manager from
+export
+alma.acs.testsupport.tat.TATJUnitRunner

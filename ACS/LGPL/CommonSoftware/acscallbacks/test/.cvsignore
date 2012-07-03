@@ -1,0 +1,9 @@
+tatlogs
+.idl-compilation-end
+.idl-compilation-start
+prologue.log
+templog
+sed.scan
+tmp
+.purifydir
+result.idl

@@ -1,0 +1,9 @@
+python
+*.a
+*.so
+ACScomponents
+AcsNCTraceLogLTS.jar
+typeSafeLogTest.jar
+AnotherSampleLogLTS.jar
+SampleLogLTS.jar
+AcsContainerLogsLTS.jar

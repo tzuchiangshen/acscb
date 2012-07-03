@@ -1,0 +1,6 @@
+ACScomponents
+*.a
+*.so
+CDB.jar
+JDALTests.jar
+python

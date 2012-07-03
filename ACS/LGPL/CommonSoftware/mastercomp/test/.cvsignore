@@ -1,0 +1,9 @@
+*.out
+sed.scan
+tatlogs
+.idl-compilation-*
+.purify
+all_logs.xml
+loggingClient.pid
+tmp
+.purifydir

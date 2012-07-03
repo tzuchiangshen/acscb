@@ -1,0 +1,9 @@
+tatlogs
+.purify
+*.swp
+*.scan
+*.out
+all_logs.xml
+loggingClient.pid
+.purifydir
+tmp

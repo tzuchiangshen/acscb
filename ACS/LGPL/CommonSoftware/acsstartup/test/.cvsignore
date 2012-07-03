@@ -1,0 +1,7 @@
+tatlogs
+sed.scan
+.purify
+.purifydir
+heapDumpOnOutOfMemoryErrorTest.out
+tmp
+tmp_dump

@@ -1,0 +1,5 @@
+ACScomponents
+acsdaemon.jar
+acsdaemonErrType.jar
+*.a
+*.so

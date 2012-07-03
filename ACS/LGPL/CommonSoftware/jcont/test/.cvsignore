@@ -1,0 +1,14 @@
+*~
+.purify
+.purifydir
+.idl-*
+tatlogs
+PROLOGUE-frodoContainer.out
+PROLOGUE-maciManagerJ.out
+PROLOGUE-ORBServices.out
+*.pid
+all_logs.xml
+tmp
+.TestList.sed
+sed.scan
+*.gclog

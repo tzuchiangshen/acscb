@@ -1,0 +1,6 @@
+python
+ACScomponents
+acsdaemonErrType.jar
+acsdaemon.jar
+*.a
+*.so

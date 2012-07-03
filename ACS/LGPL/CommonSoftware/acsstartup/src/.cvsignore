@@ -1,0 +1,4 @@
+.purify
+.purifydir
+.idl-compilation-*
+*.gclog

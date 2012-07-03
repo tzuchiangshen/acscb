@@ -1,0 +1,7 @@
+*.a
+*.so
+maci.jar
+python
+ACScomponents
+maciErrType.jar
+maciSchemaBindings.jar

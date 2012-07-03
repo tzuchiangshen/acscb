@@ -1,0 +1,7 @@
+ACScomponents
+python
+baciErrTypeDevIO.jar
+baciErrTypeProperty.jar
+baci.jar
+*.a
+*.so

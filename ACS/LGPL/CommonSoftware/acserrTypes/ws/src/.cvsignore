@@ -1,0 +1,4 @@
+.idl-compilation-*
+.purify
+tmp*
+.purifydir

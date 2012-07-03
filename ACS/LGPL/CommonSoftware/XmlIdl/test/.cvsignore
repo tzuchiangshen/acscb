@@ -1,0 +1,6 @@
+*.cpp
+.idl-compilation-start
+.idl-compilation-end
+.purify
+.purifydir
+tatlogs

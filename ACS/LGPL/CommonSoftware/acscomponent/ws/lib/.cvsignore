@@ -1,0 +1,7 @@
+acscomponent.jar
+acscomponentTest.jar
+acsErrTypeComponent.jar
+python
+ACScomponents
+*.a
+*.so

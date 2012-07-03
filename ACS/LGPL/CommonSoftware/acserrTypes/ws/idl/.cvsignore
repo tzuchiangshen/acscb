@@ -1,0 +1,13 @@
+ACSErrTICS.idl
+ACSErrTicsTCorr.idl
+ACSErrTypeAlarm.idl
+ACSErrTypeCommon.idl
+ACSErrTypeCORBA.idl
+ACSErrTypeCppNative.idl
+ACSErrTypeDevIO.idl
+ACSErrTypeJavaNative.idl
+ACSErrTypeMonitor.idl
+ACSErrTypeOK.idl
+ACSErrTypePythonNative.idl
+PatternAlarmTriggered.idl
+PatternAlarmCleared.idl

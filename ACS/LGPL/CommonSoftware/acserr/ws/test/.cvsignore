@@ -1,0 +1,7 @@
+.idl-*
+*.cpp
+ref
+*.ref
+.purify
+.purifydir
+tmp

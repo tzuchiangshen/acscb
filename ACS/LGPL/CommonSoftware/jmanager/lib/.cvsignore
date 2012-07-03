@@ -1,0 +1,7 @@
+python
+jManager.jar
+ACScomponents
+jManagerTests.jar
+jmanagerErrType.jar
+*.a
+*.so

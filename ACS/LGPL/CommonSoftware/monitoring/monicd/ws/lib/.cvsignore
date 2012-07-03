@@ -1,0 +1,12 @@
+python
+ACScomponents
+*.so
+*.a
+MCtestComponent.jar
+MonitorArchiverIF.jar
+TMCDBCOMMON_IDL.jar
+MonitorCollector.jar
+CollectorListStatus.jar
+MonitoringDAO_IF.jar
+DAOErrType.jar
+MonitorErr.jar

@@ -1,0 +1,4 @@
+.idl-*
+*.cpp
+.purify
+.purifydir
